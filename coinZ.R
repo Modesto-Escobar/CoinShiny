@@ -106,5 +106,3 @@ pColor<-function(x, palette=NA) {
     }
   return(y)
 }
-# Subgraphs D<-shortest.paths(R,weights=rep(1,length(E(R))))
-# Subgraphs S<-induced.subgraph(R,which(D[1,]<2))
